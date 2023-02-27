@@ -1,4 +1,4 @@
-# Auto Accep WHMCS Order
+# Auto Accept WHMCS Order
 Automatically Accept Order when invoice is Paid
 
 # How to Install it?
